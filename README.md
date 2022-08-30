@@ -1,6 +1,6 @@
 # HospitalManagement
 Afrontend for  Hospital Management System using Html css javascript
-[image](https://user-images.githubusercontent.com/95865069/187491762-62b08a5b-80a3-440f-ab05-2f874ee9fd13.png)
 
+![image](https://user-images.githubusercontent.com/95865069/187492013-8d36a4aa-c4f4-4c94-b574-83df172f5188.png)
 
 https://rishavvatsa.github.io/hospital.github.io/
